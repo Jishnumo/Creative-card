@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(24, 23, 23);
+}
+.card{
+    width: 400px;
+    height: 430px;
+    background-color: white;
+    padding: 4rem 2rem;
+}
+a{  
+    text-decoration: none;
+    background: rgb(21, 1, 63);
+    color: white;
+    padding:10px 15px;
+}
+p{
+    margin:2rem 0;
+    line-height: 20px;
+}
